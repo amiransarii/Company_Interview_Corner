@@ -1,0 +1,67 @@
+Hi
+
+I have attended Flipkart - SDE Mobile position interview on 16th April 2020.  There were total five rounds for this position
+and each round was too challenging.  These rounds were:-
+1. MC Round   
+2. PS Round   
+3.Android Tech Round  
+4.Design Round  
+5.HM Round etc. 
+
+####Basic Skills Needed###.
+1. Core Java 
+2. Sqlite 
+3. UI designing
+4. Server API
+
+Round 1 (Machine Coding(MC)  90 minutes) : The assessment consisted to develop a small android application working solution within time and this problem will be given by the company.
+
+Expectations
+
+Demoable code
+Clear Separation of Concerns (Good Class Design)
+Functional Correctness and Completeness
+Readability
+Modularity and Extensibility
+Exception handling
+
+Round 2(Problem Solving(PC) 60 minutes):  This round will focus on your problem solving skills and knowledge of common data-structures. You will be given a problem statement (real-world or algorithmic) and you will need to provide a solution in the form of pseudo-code.
+
+Expectations
+
+Ability to identify problem type and apply conventionally known techniques to solve them.
+Usage of optimal Data Structures for the problem statement
+Good understanding of Time and Space complexity
+Identify edge cases and boundary conditions of the problem
+Ability to test the correctness of solution 
+
+ Round 3(Android Tech Round  60 minutes): The purpose of this round is to understand your knowledge and understanding of Android.
+
+Expectations
+
+Write something here
+Understanding of Android Pillars like Activity, Service, Content Providers, Broadcast Receiver.
+Good understanding of Android Architecture.
+Multithreading concepts.
+Lifecycle of Android components. When to use which component.
+DB handling.
+Performance measurement & debugging.
+Usage of ADB command.
+Network Understanding and good to have tool knowledge like Charles.
+Testing Frameworks.
+
+ Round 4(System Design  60 minutes):  Given a well-defined problem statement, you will need to convert Product Requirements into a working design. This will be a very open-ended conversation about how we build complex features or design entirely new products from scratch.
+
+Expectations
+
+Ability to design and plan a product/feature independently
+Prioritisation of features/tasks
+System design and architecture for this product’s implementation
+Design APIs and/or interfaces for the various pieces
+Design network layer for the problem: Decide when to make what calls
+Design database layer for the problem with right schema
+Use performant UI components that fit the use-case
+Ability to go deep into some features and look at factors like product decisions,
+limitations etc amongst many others
+
+ Round 5(Managerial, HR  60 minutes) :  This is the last round between HR or any higher authority of the company and candidate.

@@ -1,0 +1,28 @@
+Hi,
+
+I have attended interview for OSS System Development & Support Specialist post, in July 2020 in Maxis and I cleared it successfully.  
+Unfortunately, I did not join because I already got job offer from different company before declaring final result of the Maxis.
+
+####Basic Skills Needed###.
+1. Core Java 
+2. Spring Framework
+3. Hibernate
+4. Oracle/MySQL 
+
+However, I would like to share my experience with you so that, It can help you tackle this interview.
+There were total four rounds for this position and each one was challenging.
+
+1.Project Manager Discussion:  It was first round, where project manager wanted to know my background, problem solving skills and experience  
+  in that project, which he is going to hire for.
+
+2. Coding Challenge:  After first round cleared, another round was coding challenge round where I received coding question and had to solve 
+live and within time. This session was recording, and Maxis has its own platform same has hacker rank. I have attached the format document please 
+look into it. More focus is required for this round and also basic skills of Java.
+
+3.HR Round : Third round was a HR round, who would like to know more about me.
+
+4.Management Round: Final round was management round, where higher authority would like to discuss in more details and how 
+can I be more suitable for this position and how can I help company etc.
+
+Thank You
+
